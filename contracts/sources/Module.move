@@ -90,7 +90,7 @@ module bab::Core {
         ];
 
         let display_vals = vector[
-            utf8(b"{name}"),
+            utf8(b"{name} ({type} Module)"),
             utf8(b"{url}"),
             utf8(b"{thumbnail_url}"),
             utf8(b"{description}"),
@@ -110,7 +110,7 @@ module bab::Core {
         ];
 
         let instance_display_vals = vector[
-            utf8(b"{name} (Instance)"),
+            utf8(b"{name} ({type} Module Instance)"),
             utf8(b"{url}"),
             utf8(b"{thumbnail_url}"),
             utf8(b"{description}"),
