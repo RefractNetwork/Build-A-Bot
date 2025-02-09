@@ -1,7 +1,8 @@
+
 # Build-A-Bot 🛠️🤖  
 ### Where Life-Long AI Companions Are Made
-
-**Build-A-Bot** is the first-ever **on-chain composable AI agent character platform**, enabling users to craft and fully own their AI companions. Inspired by the idea of customizing a teddy bear at a store, **Build-A-Bot** allows users to **assemble their dream AI agent** by selecting different AI **modules** (e.g., personality, knowledge bank, speech, tone) from an **open marketplace**.
+![Build-A-Bot Banner](resources/Banner2.png)
+**Build-A-Bot** is the first-ever **on-chain composable AI agent character platform**, enabling users to craft and fully own their AI agent companions. Inspired by the idea of customizing a teddy bear at a store, **Build-A-Bot** allows users to **assemble their dream AI agent** by selecting different tokenized AI **modules** (e.g., personality, knowledge bank, speech, tone) from an **open marketplace**.
 
 This is powered by our **Module-as-a-Service (MaaS) system**, enabling AI researchers and enthusiasts to securely share and tokenize AI modules using **decentralized storage (Walrus) and Sui blockchain technology**. Our vision is to create a **vibrant economy for AI character content**, where users have complete ownership over the components that make up their AI agents.
 
@@ -41,11 +42,11 @@ Each **Build-A-Bot AI Agent** consists of five core **modular components**:
    - Module data is **stored on Walrus with a proof of data availability** inscribed on-chain  
    - Ownership of the **on-chain module object** guarantees access to the module forever  
 
-## 🔗 **Why Blockchain?**  
+## 🔗 **Why Sui and Walrus?**  
 By leveraging **Sui blockchain** and **Walrus decentralized storage**, we ensure that:  
-✔️ **AI Agents are Fully Owned** → Users **own their AI companions forever**  
-✔️ **AI Modules are Tradeable** → Marketplace for **AI components & characters**  
-✔️ **Data Persistence** → AI agent data is **resistant to deletion/censorship**  
+✔️ **AI Agents are Fully Owned** → Users **own their AI companions forever without needing to break the bank**  
+✔️ **AI Modules are Tradeable** → Open marketplace for **AI components & characters**  
+✔️ **Data Persistence** → AI agent data is **resistant to deletion/censorship**, users have full custody of their data  
 
 ## 🏆 **Hackathon Details**  
 - **Built for:** Sui AI Agent Hackathon  
