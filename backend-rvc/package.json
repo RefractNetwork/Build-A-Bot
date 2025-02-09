@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "rvc-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "node dist/server.js",
+      "build": "npx tsc",
+      "postbuild": "mkdir -p dist/models && cp -r models/* dist/models"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.6.12",
+    "dotenv": "^16.4.7",
+    "elevenlabs": "^1.50.5",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "wav": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "typescript": "^5.7.3"
+  }
+}

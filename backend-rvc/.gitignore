@@ -1,0 +1,6 @@
+/audio/
+/models/
+dist/
+node_modules/
+rvc-env
+rvc-env-39
