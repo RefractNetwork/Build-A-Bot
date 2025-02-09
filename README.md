@@ -1,7 +1,7 @@
-
 # Build-A-Bot 🛠️🤖  
 ### Where Life-Long AI Companions Are Made
 ![Build-A-Bot Banner](resources/Banner2.png)
+
 **Build-A-Bot** is the first-ever **on-chain composable AI agent character platform**, enabling users to craft and fully own their AI agent companions. Inspired by the idea of customizing a teddy bear at a store, **Build-A-Bot** allows users to **assemble their dream AI agent** by selecting different tokenized AI **modules** (e.g., personality, knowledge bank, speech, tone) from an **open marketplace**.
 
 This is powered by our **Module-as-a-Service (MaaS) system**, enabling AI researchers and enthusiasts to securely share and tokenize AI modules using **decentralized storage (Walrus) and Sui blockchain technology**. Our vision is to create a **vibrant economy for AI character content**, where users have complete ownership over the components that make up their AI agents.
