@@ -11,6 +11,10 @@ Most existing AI chatbots (like **Character.AI**) restrict users to **predefined
 
 Each **Build-A-Bot AI Agent** consists of five core **modular components**:
 
+### Build-A-Bot Composable AI Agent Architecture
+![Build-A-Bot Banner](resources/Build-a-Bot_Diagram0.png)
+![Build-A-Bot Banner](resources/Build-a-Bot_Diagram1.png)
+
 ### 🧩 **AI Agent Modules**  
 1. **Personality Module**  
    - Defines the character's **behavior, quirks, and speaking style**  
