@@ -1,10 +1,10 @@
-# RVC (Retrieval-based Voice Conversion) API
+# Text-to-Speech (TTS) and Retrieval-based Voice Conversion (RVC) Modules
 
-This directory contains the backend API for real-time voice conversion using RVC (Retrieval-based Voice Conversion) and ElevenLabs Text-to-Speech.
+This directory contains the modules and backend API for TTS using the ElevenLabs API and RVC using python-rvc.
 
 ## Setup and Installation
 
-Follow these steps to set up the backend environment and install the necessary dependencies.
+Follow these steps to set up the backend environment and install the necessary dependencies. The setup process requires an ElevenLabs API key and configuring a specialized a Python virtual environment.
 
 ### Prerequisites
 
@@ -51,12 +51,12 @@ Go into your virtual environment folder and do the following:
 cd lib/python3.9/site-packages/
 ```
 
-Go to the folder for fairseq and in *checkpoint_utils.py* modify line 315 to use *weights_only=False*:
+Go to the `fairseq` folder and modify line 315 of `checkpoint_utils.py` with `weights_only=False`:
 ```bash
 state = torch.load(f, map_location=torch.device("cpu"), weights_only=False)
 ```
 
-Then go to the folder for rvc_python and in *infer.py* in the *infer_file* method, add the following line before wavfile.write():
+Then go to the `rvc_python` folder and modify the `infer_file` method in `infer_py`. Before `wavfile.write(output_path, self.vc.tgt_sr, wav_opt)`, add the following line:
 ```bash
 wav_opt = np.array(wav_opt)
 ```
@@ -69,15 +69,22 @@ npm install
 ```
 
 ### Set ElevenLabs API Key Environment Variable
-
-```bash
-export ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
-```
-
+    *   **On Linux/macOS:**
+        ```bash
+        export ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
+        ```
+    *   **On Windows (Command Prompt):**
+        ```bash
+        set ELEVENLABS_API_KEY=YOUR_ELEVENLABS_API_KEY_HERE
+        ```
+    *   **On Windows (PowerShell):**
+        ```powershell
+        $env:ELEVENLABS_API_KEY = "YOUR_ELEVENLABS_API_KEY_HERE"
+        ```
 
 ### Running the Backend API Server
 
-Navigate to backend-rvc and run
+Navigate to `backend-rvc` and run
 ```bash
 npm run build
 npm start
@@ -88,7 +95,7 @@ npm run build
 node dist/server.js
 ```
 
-The API endpoint for voice conversion is *POST /api/process-audio* and the JSON request body is:
+The API endpoint for voice conversion is `POST /api/process-audio` and the JSON request body is:
 ```json
 {
   "text": "Text to convert to voice.",
