@@ -61,9 +61,6 @@ Then go to the `rvc_python` folder and modify the `infer_file` method in `infer_
 wav_opt = np.array(wav_opt)
 ```
 
-### Add Models
-Create a `models` dir in `backend-rvc` and a subdir for each model. Each subdir should be named after the model name, with the `model.pth` and `model.index` files inside.
-
 ### Install Node dependencies
 
 Navigate to `backend-rvc` and run 
