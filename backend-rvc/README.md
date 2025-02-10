@@ -89,13 +89,16 @@ node dist/server.js
 ```
 
 The API endpoint for voice conversion is *POST /api/process-audio* and the JSON request body is:
+```json
 {
   "text": "Text to convert to voice.",
   "voiceId": "ElevenLabs voice ID (e.g., pNInz6obpg9XYj9gQ0uk)",
   "modelName": "Name of your RVC model directory (e.g., gandalf)"
 }
+```
 
 Example using curl:
+```bash
 curl -X POST \
   -H "Content-Type: application/json" \
   -d '{
@@ -104,8 +107,4 @@ curl -X POST \
     "modelName": "gandalf"
   }' \
   http://localhost:3000/api/process-audio -o output_audio.wav
-
-
-
-
-
+```
