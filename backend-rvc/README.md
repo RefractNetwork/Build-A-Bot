@@ -69,18 +69,18 @@ npm install
 ```
 
 ### Set ElevenLabs API Key Environment Variable
-    *   **On Linux/macOS:**
-        ```bash
-        export ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
-        ```
-    *   **On Windows (Command Prompt):**
-        ```bash
-        set ELEVENLABS_API_KEY=YOUR_ELEVENLABS_API_KEY_HERE
-        ```
-    *   **On Windows (PowerShell):**
-        ```powershell
-        $env:ELEVENLABS_API_KEY = "YOUR_ELEVENLABS_API_KEY_HERE"
-        ```
+#### Linux/macOS:
+    ```bash
+    export ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
+    ```
+#### Windows (Command Prompt):
+    ```bash
+    set ELEVENLABS_API_KEY=YOUR_ELEVENLABS_API_KEY_HERE
+    ```
+#### Windows (PowerShell):
+    ```powershell
+    $env:ELEVENLABS_API_KEY = "YOUR_ELEVENLABS_API_KEY_HERE"
+    ```
 
 ### Running the Backend API Server
 
