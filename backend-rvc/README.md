@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 ### Modify Python Dependencies
-In order to prevent issues with running rvc-python we need to make 2 modifications to fairseq and rvc-python. 
+In order to prevent issues with `torch` we need to make 2 modifications to `fairseq` and `rvc-python`. 
 Go into your virtual environment folder and do the following:
 
 ```bash
@@ -61,7 +61,10 @@ Then go to the `rvc_python` folder and modify the `infer_file` method in `infer_
 wav_opt = np.array(wav_opt)
 ```
 
-### Install node dependencies
+### Add Models
+Create a `models` dir in `backend-rvc` and a subdir for each model. Each subdir should be named after the model name, with the `model.pth` and `model.index` files inside.
+
+### Install Node dependencies
 
 Navigate to `backend-rvc` and run 
 ```bash
