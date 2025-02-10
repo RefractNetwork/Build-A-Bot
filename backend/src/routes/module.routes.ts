@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { ModuleManager } from "../utils/moduleManager.util";
+import { Module } from "../models/module.model";
 
 const router = Router();
 
@@ -150,6 +151,33 @@ router.post("/appendModule", async (req, res) => {
         console.error("Error in appendModule route:", error);
         res.status(500).json({
             error: "Failed to append module content",
+            message: error instanceof Error ? error.message : "Unknown error",
+        });
+    }
+});
+
+router.get("/listModules", async (req, res) => {
+    try {
+        // Optional query parameters for filtering
+        const { type } = req.query;
+
+        // Build query object
+        const query: any = {};
+        if (type) {
+            query.type = type;
+        }
+
+        // Get all modules from MongoDB
+        const modules = await Module.find(query).sort({ createdAt: -1 });
+
+        res.status(200).json({
+            success: true,
+            data: modules,
+        });
+    } catch (error) {
+        console.error("Error in listModules route:", error);
+        res.status(500).json({
+            error: "Failed to retrieve modules",
             message: error instanceof Error ? error.message : "Unknown error",
         });
     }
