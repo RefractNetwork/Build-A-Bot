@@ -68,6 +68,10 @@ Navigate to `backend-rvc` and run
 npm install
 ```
 
+### Add Models
+Create a `models` dir in `backend-rvc` and a subdir for each model. Each subdir should be named after the model name, with the `model.pth` and `model.index` files inside.
+
+
 ### Set ElevenLabs API Key Environment Variable
 In `backend-rvc` create a `.env` file and set your API Key in it as follows:
 ```bash
