@@ -1,64 +1,103 @@
-# Build-A-Bot 🛠️🤖  
-### Where Life-Long AI Companions Are Made
+# **Build-A-Bot (BAB)** 🛠️🤖
+## **Where Life-Long Companions Are Made**
+### **The First-Ever On-Chain Composable AI Agent Character Platform**
 ![Build-A-Bot Banner](resources/Banner2.png)
+---
 
-**Build-A-Bot** is the first-ever **on-chain composable AI agent character platform**, enabling users to craft and fully own their AI agent companions. Inspired by the idea of customizing a teddy bear at a store, **Build-A-Bot** allows users to **assemble their dream AI agent** by selecting different tokenized AI **modules** (e.g., personality, knowledge bank, speech, tone) from an **open marketplace**.
+## **Project Summary**
+**Build-A-Bot (BAB)** is the first-ever on-chain composable AI Agent character platform on Sui. Inspired by the idea of customizing a teddy bear (choosing fabric, filling, and accessories), **BAB** allows users to:
 
-This is powered by our **Module-as-a-Service (MaaS) system**, enabling AI researchers and enthusiasts to securely share and tokenize AI modules using **decentralized storage (Walrus) and Sui blockchain technology**. Our vision is to create a **vibrant economy for AI character content**, where users have complete ownership over the components that make up their AI agents.
+- Cherry-pick and combine different AI Agent modules—*Personality*, *Knowledge Bank*, *Speech*, *Tone*, and *Action*—from an open marketplace.
+- Compose these modules to create a truly unique **AI Companion** with full on-chain ownership.
 
-## 🌟 Why Build-A-Bot?  
-Most existing AI chatbots (like **Character.AI**) restrict users to **predefined, unchangeable personalities**. **Build-A-Bot breaks these limitations** by offering **full composability**—letting users pick and swap AI modules **like LEGO bricks** to build and customize their AI agents freely.  
+This is powered by BAB’s novel **Module-as-a-Service** system, enabling AI researchers and enthusiasts worldwide to:
 
-### Build-A-Bot Composable AI Agent Architecture
+1. Securely upload and tokenize their AI modules (weights/configuration files).
+2. Store these modules on decentralized storage via **Walrus**.
+3. Make them openly available in a **composable** and **liquid** marketplace.
+
+With **BAB**, you are no longer constrained to a handful of pre-made AI character templates (like those found on Character.ai). Instead, you can **fully customize** and **own** each component of your AI character, akin to building *Lego blocks* for AI Agents. Every AI Companion is composed of five core module types, explained in detail below.
+
+---
+
+## **Core Features**
+
+1. **Securely Tokenize AI Modules**
+   - AI researchers can list their **ComposableModule** (weights/configs) on-chain.
+   - Storage is decentralized and censorship-resistant (powered by **Walrus**).
+   - Ownership is tokenized, enabling you to buy or sell these modules as **ComposableModuleInstance** assets.
+
+2. **Composable AI Agent Companions**
+   - Users on **BAB** can **own different tokenized AI modules** and freely swap them at any time.
+   - Don’t like your AI Companion’s current *Tone*? Purchase a different *Tone* module and replace it instantly.
+   - Achieve near-infinite customization for **personality**, **knowledge**, **voice**, **actions**, and more.
+
+3. **Full Custody and Persistent Memory**
+   - The **Memory Module** is *stateful* and stores all past interactions or knowledge summaries.
+   - It is tokenized, encrypted, and remains under the sole control of its owner.
+   - As long as you have enough **WAL** tokens for storage, your AI Companion’s memory persists indefinitely on Walrus—ensuring your Agent lives on forever in the decentralized web.
+
+4. **Modular, Extendable, and Backward Compatible**
+   - Built with the **BAB Sui Package** for easy addition of future AI features.
+   - As AI technology evolves, your AI Agent’s capabilities can grow with it.
+
+---
+
+## **What is a BAB Composable AI Agent Companion?**
+
+A **BAB Composable AI Agent** requires two categories of modules:
+
+1. **Stateless Modules**
+   - **Personality Module**: Defines how the AI Agent speaks, behaves, and its general quirks or traits.
+   - **Knowledge Bank Module**: Integrates verifiable external knowledge (e.g., live market prices, textbooks) to provide accurate, real-time responses.
+   - **Speech Module**: Controls *text-to-speech* characteristics—pitch, speed, and voice style (masculine or feminine, formal or casual).
+   - **Tone Module**: Applies a secondary filter or “character flair” to the speech—could mimic a *Japanese anime character*, *celebrity*, or *historical figure*.
+   - **Action Module**: Lets the AI Agent perform external tasks—*sending a tweet*, *executing a transaction on Sui*, etc.
+
+2. **Stateful Module**
+   - **Memory Module**: Holds the Agent’s “soul,” capturing conversation histories, personal details, and knowledge summaries. Swapping Memory Modules effectively **replaces the Agent**’s identity—because the memory is what retains continuity of personality and past experiences.
+
+Below is a conceptual diagram illustrating the **anatomical structure** of an AI Agent. It includes:
+[TODO: add the diagram]
+- **Stateless Modules**: Personality, Knowledge Bank, Speech, Tone, and Action.
+
+In the **BAB WebApp**, users can **freely permute and compose** new AI characters by layering these modules like building blocks. By choosing any combination of modules, you can instantly form and chat with a uniquely composed AI Agent.
+
+---
+
+## **How AI Researchers & Enthusiasts Can Sell Their Work**
+
+**BAB** provides a straightforward publishing flow:
+
+1. **Drag & Drop Pretrained Model Weights**
+   - Choose the module type (Personality, Knowledge Bank, etc.).
+   - Upload your data to **Walrus** via a user-friendly UI.
+
+2. **Tokenize Your Module**
+   - BAB creates an on-chain **ComposableModule** object, binding your IP/content with a verifiable proof of data availability on Walrus.
+   - Anyone who acquires your module’s token can seamlessly integrate it into their AI Agent’s composition.
+
+This opens a **liquid marketplace** for modules, enabling module owners to **profit** from their AI research while **preserving ownership** over the underlying assets.
+
+---
+
+## **How It All Works (System Architecture)**
+
+The **BAB** system is built on top of the foundational work of **ElizaOS**, enhanced with modular loading capabilities for on-the-fly AI Agent module swapping. This architecture is powered by:
+
+1. **Walrus**
+   - A **censorship-resistant** and **cost-efficient** data storage layer.
+   - Stores AI modules, ensuring high availability and resilience.
+
+2. **Sui**
+   - Used for on-chain module ownership coordination.
+   - Implements **ComposableModule** object standards (defined in `BAB::Core::ComposableModule`).
+   - Low gas fees and fast finality make **Sui** ideal for frequent on-chain transactions (buying, selling, or swapping modules).
+
+**High-Level Flow**:
+1. **Upload & Tokenize** AI Modules → Stored on Walrus, minted as Sui tokens.
+2. **Assemble AI Agent** → Pick modules (Personality, Knowledge, Speech, Tone, Action) + attach a Memory Module.
+3. **Interact in Real-Time** → Chat, swap modules, or perform actions, all while the Memory Module logs and persists state.
+
 ![Build-A-Bot Banner](resources/Build-a-Bot_Diagram0.png)
 ![Build-A-Bot Banner](resources/Build-a-Bot_Diagram1.png)
-
-### 🧩 **AI Agent Modules**  
-Each **Build-A-Bot AI Agent** consists of five core **modular components**:
-1. **Personality Module**  
-   - Defines the character's **behavior, quirks, and speaking style**  
-   - Example: A sassy pirate, a wise mentor, a caring assistant  
-
-2. **Knowledge Bank Module**  
-   - Adds **verifiable external knowledge** to the AI agent  
-   - Example: Real-time **market data**, **textbooks**, **historical records**  
-   - Eliminates hallucinations, ensuring factual accuracy  
-
-3. **Speech Module**  
-   - Controls **text-to-speech (TTS) parameters**  
-   - Example: **Masculine/feminine voice**, speech speed  
-
-4. **Tone Module**  
-   - Applies a **voice filter** on top of the speech module  
-   - Example: Make the AI agent **sound like a Japanese anime character or Donald Trump**  
-
-5. **Memory Module (Soul of the AI Agent)**  
-   - Stores **all past interactions** with the user  
-   - Essential for making the AI **remember** user preferences, names, hobbies, etc.  
-
-## 🚀 **How It Works**  
-1. **Pick & Assemble Modules**: Users select **different modules** from the open marketplace to **create their AI agent**.  
-2. **Live AI Composition**: Modules can be **swapped instantly**, e.g., **changing the agent's voice** or **adding a new knowledge module** (e.g., Quantum Physics textbook).  
-3. **On-Chain Ownership**: Each module is **tokenized on the Sui blockchain**, ensuring **true ownership** and **persistent AI data storage** via **Walrus**.  
-4. **Publish Your Own Modules**:  
-   - Easily **upload pretrained AI model weights** through a **drag-and-drop interface**  
-   - Module data is **stored on Walrus with a proof of data availability** inscribed on-chain  
-   - Ownership of the **on-chain module object** guarantees access to the module forever  
-
-## 🔗 **Why Sui and Walrus?**  
-By leveraging **Sui blockchain** and **Walrus decentralized storage**, we ensure that:  
-✔️ **AI Agents are Fully Owned** → Users **own their AI companions forever without needing to break the bank**  
-✔️ **AI Modules are Tradeable** → Open marketplace for **AI components & characters**  
-✔️ **Data Persistence** → AI agent data is **resistant to deletion/censorship**, users have full custody of their data  
-
-## 🏆 **Hackathon Details**  
-- **Built for:** Sui AI Agent Hackathon  
-- **Development Time:** 1 week  
-- **Core Technologies:**  
-  - **Sui Blockchain** (Tokenization & AI Composition Coordination)  
-  - **Walrus** (Decentralized Storage)  
-
-## 🛠️ **Future Vision**  
-- **Decentralized AI Marketplace**: AI researchers can **monetize** and share **AI modules** securely.  
-- **AI NFTs**: Users can tokenize **fully customized AI companions** as **NFTs**.  
-- **Cross-Chain Expansion**: Expanding beyond **Sui** to other blockchain networks.  
