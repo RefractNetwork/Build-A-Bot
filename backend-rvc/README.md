@@ -63,24 +63,16 @@ wav_opt = np.array(wav_opt)
 
 ### Install node dependencies
 
-Navigate to backend-rvc and run 
+Navigate to `backend-rvc` and run 
 ```bash
 npm install
 ```
 
 ### Set ElevenLabs API Key Environment Variable
-#### Linux/macOS:
-    ```bash
-    export ELEVENLABS_API_KEY="YOUR_ELEVENLABS_API_KEY_HERE"
-    ```
-#### Windows (Command Prompt):
-    ```bash
-    set ELEVENLABS_API_KEY=YOUR_ELEVENLABS_API_KEY_HERE
-    ```
-#### Windows (PowerShell):
-    ```powershell
-    $env:ELEVENLABS_API_KEY = "YOUR_ELEVENLABS_API_KEY_HERE"
-    ```
+In `backend-rvc` create a `.env` file and set your API Key in it as follows:
+```bash
+ELEVENLABS_API_KEY="YOUR_API_KEY_HERE"
+```
 
 ### Running the Backend API Server
 
