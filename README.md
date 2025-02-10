@@ -9,13 +9,12 @@ This is powered by our **Module-as-a-Service (MaaS) system**, enabling AI resear
 ## 🌟 Why Build-A-Bot?  
 Most existing AI chatbots (like **Character.AI**) restrict users to **predefined, unchangeable personalities**. **Build-A-Bot breaks these limitations** by offering **full composability**—letting users pick and swap AI modules **like LEGO bricks** to build and customize their AI agents freely.  
 
-Each **Build-A-Bot AI Agent** consists of five core **modular components**:
-
 ### Build-A-Bot Composable AI Agent Architecture
 ![Build-A-Bot Banner](resources/Build-a-Bot_Diagram0.png)
 ![Build-A-Bot Banner](resources/Build-a-Bot_Diagram1.png)
 
 ### 🧩 **AI Agent Modules**  
+Each **Build-A-Bot AI Agent** consists of five core **modular components**:
 1. **Personality Module**  
    - Defines the character's **behavior, quirks, and speaking style**  
    - Example: A sassy pirate, a wise mentor, a caring assistant  
