@@ -2,6 +2,9 @@
 
 **The First-Ever On-Chain Composable AI Agent Character Platform on Sui**
 ![Build-A-Bot Banner](resources/Banner2.png)
+
+Sui AI Agent Typhoon - ElizaOS and Sui Walrus Track
+
 ---
 
 ## **Project Summary**
@@ -17,6 +20,13 @@ This is powered by BAB’s novel **Module-as-a-Service** system, enabling AI res
 3. Make them openly available in a **composable** and **liquid** marketplace so other users can buy their work and integrate it into their own AI Agents.
 
 With **BAB**, you are no longer constrained to a handful of pre-made AI character templates (like those found on Character.ai). Instead, you can **fully customize** and **own/trade** each component of your AI character, akin to building *Lego blocks* for AI Agents. 
+
+---
+
+## **Integration with ElizaOS**
+We enhanced the existing Eliza OS by modularizing its character file system, breaking it down into distinct parts and adding a memory module. Each agent’s behavior is defined by a character configuration file, which is now divided into separate modules: **character**, **knowledge**, **voice**, **tone**, and **action**. The knowledge modules store information in string arrays, while the voice modules, integrated with Eleven Labs, include settings like voice speed. These modules are tokenized into a Sui smart contract NFT, which can be listed on a marketplace. When purchased, an NFT is minted, allowing the use of the modules.
+
+To initialize an agent, a memory module is minted, which stores the ownership to its chat history. If an existing memory module is used, the previous chat history is injected into the new session. The final agent is composed by integrating these modules into a character file and chat log, enabling a seamless and customizable user experience.
 
 ---
 
