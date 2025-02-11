@@ -1,28 +1,28 @@
-# **Build-A-Bot (BAB)** 🛠️🤖
-## **Where Life-Long Companions Are Made**
-### **The First-Ever On-Chain Composable AI Agent Character Platform**
+# **Build-A-Bot**: Where Life-Long AI Companions Are Made
+
+**The First-Ever On-Chain Composable AI Agent Character Platform on Sui**
 ![Build-A-Bot Banner](resources/Banner2.png)
 ---
 
 ## **Project Summary**
 **Build-A-Bot (BAB)** is the first-ever on-chain composable AI Agent character platform on Sui. Inspired by the idea of customizing a teddy bear (choosing fabric, filling, and accessories), **BAB** allows users to:
 
-- Cherry-pick and combine different AI Agent modules—*Personality*, *Knowledge Bank*, *Speech*, *Tone*, and *Action*—from an open marketplace.
-- Compose these modules to create a truly unique **AI Companion** with full on-chain ownership.
+- Cherry-pick and combine different on-chain tokenized AI Agent modules—*Personality*, *Knowledge Bank*, *Speech*, *Tone*, and *Action*—from an open marketplace.
+- Compose these modules to create a truly unique **AI Agent Companion** with full on-chain ownership.
 
 This is powered by BAB’s novel **Module-as-a-Service** system, enabling AI researchers and enthusiasts worldwide to:
 
-1. Securely upload and tokenize their AI modules (weights/configuration files).
-2. Store these modules on decentralized storage via **Walrus**.
-3. Make them openly available in a **composable** and **liquid** marketplace.
+1. Securely upload and tokenize their pre-trained AI modules (i.e., weights / configuration files).
+2. Store these modules on decentralized storage via **Walrus** to ensure data availability and censorship-resistance.
+3. Make them openly available in a **composable** and **liquid** marketplace so other users can buy their work and integrate it into their own AI Agents.
 
-With **BAB**, you are no longer constrained to a handful of pre-made AI character templates (like those found on Character.ai). Instead, you can **fully customize** and **own** each component of your AI character, akin to building *Lego blocks* for AI Agents. Every AI Companion is composed of five core module types, explained in detail below.
+With **BAB**, you are no longer constrained to a handful of pre-made AI character templates (like those found on Character.ai). Instead, you can **fully customize** and **own/trade** each component of your AI character, akin to building *Lego blocks* for AI Agents. 
 
 ---
 
 ## **Core Features**
 
-1. **Securely Tokenize AI Modules**
+1. **Securely Tokenize AI Modules with Module-as-a-Service**
    - AI researchers can list their **ComposableModule** (weights/configs) on-chain.
    - Storage is decentralized and censorship-resistant (powered by **Walrus**).
    - Ownership is tokenized, enabling you to buy or sell these modules as **ComposableModuleInstance** assets.
@@ -43,23 +43,20 @@ With **BAB**, you are no longer constrained to a handful of pre-made AI characte
 
 ---
 
-## **What is a BAB Composable AI Agent Companion?**
+## **What is the anatomy of a BAB Composable AI Agent?**
 
-A **BAB Composable AI Agent** requires two categories of modules:
+A **BAB Composable AI Agent** composes of two categories of modules:
 
-1. **Stateless Modules**
+1. **Stateless Functional Modules**
    - **Personality Module**: Defines how the AI Agent speaks, behaves, and its general quirks or traits.
    - **Knowledge Bank Module**: Integrates verifiable external knowledge (e.g., live market prices, textbooks) to provide accurate, real-time responses.
    - **Speech Module**: Controls *text-to-speech* characteristics—pitch, speed, and voice style (masculine or feminine, formal or casual).
    - **Tone Module**: Applies a secondary filter or “character flair” to the speech—could mimic a *Japanese anime character*, *celebrity*, or *historical figure*.
    - **Action Module**: Lets the AI Agent perform external tasks—*sending a tweet*, *executing a transaction on Sui*, etc.
 
-2. **Stateful Module**
+2. **Stateful Memory Module**
    - **Memory Module**: Holds the Agent’s “soul,” capturing conversation histories, personal details, and knowledge summaries. Swapping Memory Modules effectively **replaces the Agent**’s identity—because the memory is what retains continuity of personality and past experiences.
 
-Below is a conceptual diagram illustrating the **anatomical structure** of an AI Agent. It includes:
-[TODO: add the diagram]
-- **Stateless Modules**: Personality, Knowledge Bank, Speech, Tone, and Action.
 
 In the **BAB WebApp**, users can **freely permute and compose** new AI characters by layering these modules like building blocks. By choosing any combination of modules, you can instantly form and chat with a uniquely composed AI Agent.
 
@@ -87,11 +84,11 @@ The **BAB** system is built on top of the foundational work of **ElizaOS**, enha
 
 1. **Walrus**
    - A **censorship-resistant** and **cost-efficient** data storage layer.
-   - Stores AI modules, ensuring high availability and resilience.
+   - Stores AI modules, ensuring high data availability and censorship resilience.
 
 2. **Sui**
    - Used for on-chain module ownership coordination.
-   - Implements **ComposableModule** object standards (defined in `BAB::Core::ComposableModule`).
+   - To do so, we implemented the **ComposableModule** object standards (defined in `BAB::Core::ComposableModule`).
    - Low gas fees and fast finality make **Sui** ideal for frequent on-chain transactions (buying, selling, or swapping modules).
 
 **High-Level Flow**:
