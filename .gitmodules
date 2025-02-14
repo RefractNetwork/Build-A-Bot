@@ -1,3 +1,4 @@
-[submodule "eliza"]
-	path = eliza
-	url = https://github.com/RefractNetwork/eliza
+[submodule "bab-inference-engine"]
+	path = bab-inference-engine
+	url = https://github.com/RefractNetwork/Build-A-Bot-Inference-Engine.git
+	branch = bab-dev
