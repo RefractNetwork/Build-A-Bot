@@ -6,6 +6,15 @@
 Sui AI Agent Typhoon - ElizaOS and Sui Walrus Track
 
 ---
+## Getting started with Build-A-Bot:
+1. Make copies of .env.example in both `bab-inference-engin/` and `backend/`, fill in the parameters with API keys and MongoDB configs
+2. `cd bab-inference-engine/ && pnpm install`
+3. `pnpm build && pnpm start` to start the ElizaOS core
+4. `pnpm start:client` to start the BAB front end
+5. `cd ../backend/ && npm install`
+6. `ts-node src/main.ts` to start the BAB backend
+
+---
 
 ## **Project Summary**
 **Build-A-Bot (BAB)** is the first-ever on-chain composable AI Agent character platform on Sui. Inspired by the idea of customizing a teddy bear (choosing fabric, filling, and accessories), **BAB** allows users to:
@@ -27,6 +36,10 @@ With **BAB**, you are no longer constrained to a handful of pre-made AI characte
 We enhanced the existing Eliza OS by modularizing its character file system, breaking it down into distinct parts and adding a memory module. Each agent’s behavior is defined by a character configuration file, which is now divided into separate modules: **character**, **knowledge**, **voice**, **tone**, and **action**. The knowledge modules store information in string arrays, while the voice modules, integrated with Eleven Labs, include settings like voice speed. These modules are tokenized into a Sui smart contract NFT, which can be listed on a marketplace. When purchased, an NFT is minted, allowing the use of the modules.
 
 To initialize an agent, a memory module is minted, which stores the ownership to its chat history. If an existing memory module is used, the previous chat history is injected into the new session. The final agent is composed by integrating these modules into a character file and chat log, enabling a seamless and customizable user experience.
+
+- The current state of ElizaOS is that characters are instantiated during runtime initiation
+- We implemented an agent runtime reinstantiation system where whenever a user recomposes the AI agent, a new Eliza agent runtime will be initiated with the corresponding parameters used by composed agent
+- This system is a lot flexible and introduces new opportunities 
 
 ---
 
