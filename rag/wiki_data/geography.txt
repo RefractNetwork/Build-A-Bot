@@ -1,0 +1,372 @@
+Geography (from Ancient Greek γεωγραφία geōgraphía; combining gê 'Earth' and gráphō 'write', literally 'Earth writing') is the study of the lands, features, inhabitants, and phenomena of Earth.[1][2] Geography is an all-encompassing discipline that seeks an understanding of Earth and its human and natural complexities—not merely where objects are, but also how they have changed and come to be. While geography is specific to Earth, many concepts can be applied more broadly to other celestial bodies in the field of planetary science.[3] Geography has been called "a bridge between natural science and social science disciplines."[4]
+
+Origins of many of the concepts in geography can be traced to Greek Eratosthenes of Cyrene, who may have coined the term "geographia" (c. 276 BC – c. 195/194 BC).[5] The first recorded use of the word γεωγραφία was as the title of a book by Greek scholar Claudius Ptolemy (100 – 170 AD).[1] This work created the so-called "Ptolemaic tradition" of geography, which included "Ptolemaic cartographic theory."[6] However, the concepts of geography (such as cartography) date back to the earliest attempts to understand the world spatially, with the earliest example of an attempted world map dating to the 9th century BCE in ancient Babylon.[7] The history of geography as a discipline spans cultures and millennia, being independently developed by multiple groups, and cross-pollinated by trade between these groups. The core concepts of geography consistent between all approaches are a focus on space, place, time, and scale.[8][9][10][11][12][13]
+
+Today, geography is an extremely broad discipline with multiple approaches and modalities. There have been multiple attempts to organize the discipline, including the four traditions of geography, and into branches.[14][4][15] Techniques employed can generally be broken down into quantitative[16] and qualitative[17] approaches, with many studies taking mixed-methods approaches.[18] Common techniques include cartography, remote sensing, interviews, and surveying.
+
+Fundamentals
+
+Physical map of Earth
+
+Political map of Earth
+Geography is a systematic study of the Earth (other celestial bodies are specified, such as "geography of Mars", or given another name, such as areography in the case of Mars), its features, and phenomena that take place on it.[19][20][21] For something to fall into the domain of geography, it generally needs some sort of spatial component that can be placed on a map, such as coordinates, place names, or addresses. This has led to geography being associated with cartography and place names. Although many geographers are trained in toponymy and cartology, this is not their main preoccupation. Geographers study the Earth's spatial and temporal distribution of phenomena, processes, and features as well as the interaction of humans and their environment.[22] Because space and place affect a variety of topics, such as economics, health, climate, plants, and animals, geography is highly interdisciplinary. The interdisciplinary nature of the geographical approach depends on an attentiveness to the relationship between physical and human phenomena and their spatial patterns.[23]
+
+Names of places...are not geography...To know by heart a whole gazetteer full of them would not, in itself, constitute anyone a geographer. Geography has higher aims than this: it seeks to classify phenomena (alike of the natural and of the political world, in so far as it treats of the latter), to compare, to generalize, to ascend from effects to causes, and, in doing so, to trace out the laws of nature and to mark their influences upon man. This is 'a description of the world'—that is Geography. In a word, Geography is a Science—a thing not of mere names but of argument and reason, of cause and effect.[24]
+
+— William Hughes, 1863
+Geography as a discipline can be split broadly into three main branches: human geography, physical geography, and technical geography.[4][25] Human geography largely focuses on the built environment and how humans create, view, manage, and influence space.[25] Physical geography examines the natural environment and how organisms, climate, soil, water, and landforms produce and interact.[26] The difference between these approaches led to the development of integrated geography, which combines physical and human geography and concerns the interactions between the environment and humans.[22] Technical geography involves studying and developing the tools and techniques used by geographers, such as remote sensing, cartography, and geographic information system.[27]
+
+Key concepts
+Narrowing down geography to a few key concepts is extremely challenging, and subject to tremendous debate within the discipline.[28] In one attempt, the 1st edition of the book "Key Concepts in Geography" broke down this into chapters focusing on "Space," "Place," "Time," "Scale," and "Landscape."[29] The 2nd edition of the book expanded on these key concepts by adding "Environmental systems," "Social Systems," "Nature," "Globalization," "Development," and "Risk," demonstrating how challenging narrowing the field can be.[28]
+
+
+Maps, like this 17th Century depiction of Pembrokeshire, are a central element in the study of geography.
+Another approach used extensively in teaching geography are the Five themes of geography established by "Guidelines for Geographic Education: Elementary and Secondary Schools," published jointly by the National Council for Geographic Education and the Association of American Geographers in 1984.[30][31] These themes are Location, place, relationships within places (often summarized as Human-Environment Interaction), movement, and regions.[31][32] The five themes of geography have shaped how American education approaches the topic in the years since.[31][32]
+
+Space
+Main article: Space
+
+A right-handed three-dimensional Cartesian coordinate system used to indicate positions in space
+Just as all phenomena exist in time and thus have a history, they also exist in space and have a geography.[33]
+
+— United States National Research Council, 1997
+For something to exist in the realm of geography, it must be able to be described spatially.[33][34] Thus, space is the most fundamental concept at the foundation of geography.[8][9] The concept is so basic, that geographers often have difficulty defining exactly what it is. Absolute space is the exact site, or spatial coordinates, of objects, persons, places, or phenomena under investigation.[8] We exist in space.[10] Absolute space leads to the view of the world as a photograph, with everything frozen in place when the coordinates were recorded. Today, geographers are trained to recognize the world as a dynamic space where all processes interact and take place, rather than a static image on a map.[8][35]
+
+Place
+
+Yi-Fu Tuan, geographer who foregrounded the importance of language in the making of place.[36]
+Main articles: Location, Place identity, and Sense of place
+Place is one of the most complex and important terms in geography.[10][11][12][13] In human geography, place is the synthesis of the coordinates on the Earth's surface, the activity and use that occurs, has occurred, and will occur at the coordinates, and the meaning ascribed to the space by human individuals and groups.[34][12] This can be extraordinarily complex, as different spaces may have different uses at different times and mean different things to different people. In physical geography, a place includes all of the physical phenomena that occur in space, including the lithosphere, atmosphere, hydrosphere, and biosphere.[13] Places do not exist in a vacuum and instead have complex spatial relationships with each other, and place is concerned how a location is situated in relation to all other locations.[37][38] As a discipline then, the term place in geography includes all spatial phenomena occurring at a location, the diverse uses and meanings humans ascribe to that location, and how that location impacts and is impacted by all other locations on Earth.[12][13] In one of Yi-Fu Tuan's papers, he explains that in his view, geography is the study of Earth as a home for humanity, and thus place and the complex meaning behind the term is central to the discipline of geography.[11]
+
+Time
+Main articles: Time geography and Historical geography
+A space-time cube is a three-axis graph where one axis represents the time dimension and the other axes represent two spatial dimensions
+Examples of the visual language of time geography: space-time cube, path, prism, bundle, and other concepts.
+Time is usually thought to be within the domain of history, however, it is of significant concern in the discipline of geography.[39][40][41] In physics, space and time are not separated, and are combined into the concept of spacetime.[42] Geography is subject to the laws of physics, and in studying things that occur in space, time must be considered. Time in geography is more than just the historical record of events that occurred at various discrete coordinates; but also includes modeling the dynamic movement of people, organisms, and things through space.[10] Time facilitates movement through space, ultimately allowing things to flow through a system.[39] The amount of time an individual, or group of people, spends in a place will often shape their attachment and perspective to that place.[10] Time constrains the possible paths that can be taken through space, given a starting point, possible routes, and rate of travel.[43] Visualizing time over space is challenging in terms of cartography, and includes Space-Prism, advanced 3D geovisualizations, and animated maps.[37][43][44][35]
+
+Scale
+Main articles: Scale (geography), Scale (ratio), and Scale (map)
+
+A graphical or bar scale. A map would also usually give its scale numerically ("1:50,000", for instance, means that one cm on the map represents 50,000 cm of real space, which is 500 meters).
+Scale in the context of a map is the ratio between a distance measured on the map and the corresponding distance as measured on the ground.[3][45] This concept is fundamental to the discipline of geography, not just cartography, in that phenomena being investigated appear different depending on the scale used.[46][47] Scale is the frame that geographers use to measure space, and ultimately to understand a place.[45]
+
+Laws of geography
+Main article: Quantitative geography § Laws of geography
+During the quantitative revolution, geography shifted to an empirical law-making (nomothetic) approach.[48][49] Several laws of geography have been proposed since then, most notably by Waldo Tobler and can be viewed as a product of the quantitative revolution.[50] In general, some dispute the entire concept of laws in geography and the social sciences.[37][51][52] These criticisms have been addressed by Tobler and others, such as Michael Frank Goodchild.[51][52] However, this is an ongoing source of debate in geography and is unlikely to be resolved anytime soon. Several laws have been proposed, and Tobler's first law of geography is the most generally accepted in geography. Some have argued that geographic laws do not need to be numbered. The existence of a first invites a second, and many have proposed themselves as that. It has also been proposed that Tobler's first law of geography should be moved to the second and replaced with another.[52] A few of the proposed laws of geography are below:
+
+Tobler's first law of geography: "Everything is related to everything else, but near things are more related than distant."[37][51][52]
+Tobler's second law of geography: "The phenomenon external to a geographic area of interest affects what goes on inside."[51][53]
+Arbia's law of geography: "Everything is related to everything else, but things observed at a coarse spatial resolution are more related than things observed at a finer resolution."[46][51][47][54][55]
+Spatial heterogeneity: Geographic variables exhibit uncontrolled variance.[52][56][57]
+The uncertainty principle: "That the geographic world is infinitely complex and that any representation must therefore contain elements of uncertainty, that many definitions used in acquiring geographic data contain elements of vagueness, and that it is impossible to measure location on the Earth's surface exactly."[52]
+Additionally, several variations or amendments to these laws exist within the literature, although not as well supported. For example, one paper proposed an amended version of Tobler's first law of geography, referred to in the text as the Tobler–von Thünen law,[50] which states: "Everything is related to everything else, but near things are more related than distant things, as a consequence of accessibility."[Note 1][50]
+
+Sub-disciplines
+Geography is a branch of inquiry that focuses on spatial information on Earth. It is an extremely broad topic and can be broken down multiple ways.[15] There have been several approaches to doing this spanning at least several centuries, including "four traditions of geography" and into distinct branches.[58][14] The Four traditions of geography are often used to divide the different historical approach theories geographers have taken to the discipline.[14] In contrast, geography's branches describe contemporary applied geographical approaches.[4]
+
+Four traditions
+Main article: Four traditions of geography
+Geography is an extremely broad field. Because of this, many view the various definitions of geography proposed over the decades as inadequate. To address this, William D. Pattison proposed the concept of the "Four traditions of Geography" in 1964.[14][59][60] These traditions are the Spatial or Locational Tradition, the Man-Land or Human-Environment Interaction Tradition (sometimes referred to as Integrated geography), the Area Studies or Regional Tradition, and the Earth Science Tradition.[14][59][60] These concepts are broad sets of geography philosophies bound together within the discipline. They are one of many ways geographers organize the major sets of thoughts and philosophies within the discipline.[14][59][60]
+
+Branches
+Main page: Category:Branches of geography
+In another approach to the abovementioned four traditions, geography is organized into applied branches.[61][62] The UNESCO Encyclopedia of Life Support Systems organizes geography into the three categories of human geography, physical geography, and technical geography.[4][63][61][15] Some publications limit the number of branches to physical and human, describing them as the principal branches.[34] Geographers rarely focus on just one of these topics, often using one as their primary focus and then incorporating data and methods from the other branches. Often, geographers are asked to describe what they do by individuals outside the discipline[11] and are likely to identify closely with a specific branch, or sub-branch when describing themselves to lay people. Human geography studies people and their communities, cultures, economies, and environmental interactions by studying their relations with and across space and place.[34] Physical geography is concerned with the study of processes and patterns in the natural environment like the atmosphere, hydrosphere, biosphere, and geosphere.[34] Technical geography is interested in studying and applying techniques and methods to store, process, analyze, visualize, and use spatial data.[62] It is the newest of the branches, the most controversial, and often other terms are used in the literature to describe the emerging category. These branches use similar geographic philosophies, concepts, and tools and often overlap significantly.
+
+Physical
+Main article: Physical geography
+Physical geography (or physiography) focuses on geography as an Earth science.[64][65][66] It aims to understand the physical problems and the issues of lithosphere, hydrosphere, atmosphere, pedosphere, and global flora and fauna patterns (biosphere). Physical geography is the study of earth's seasons, climate, atmosphere, soil, streams, landforms, and oceans.[67] Physical geographers will often work in identifying and monitoring the use of natural resources.
+
+Physical geography can be divided into many broad categories, including:
+Biogeography
+Biogeography
+ 
+Climatology and meteorology
+Climatology and meteorology
+ 
+Coastal geography
+Coastal geography
+ 
+Environmental management
+Environmental management
+ 
+Geomorphology
+Geomorphology
+ 
+Glaciology
+Glaciology
+ 
+Hydrology and hydrography
+Hydrology and hydrography
+ 
+Landscape ecology
+Landscape ecology
+ 
+Oceanography
+Oceanography
+ 
+a view of the supercontinent of pangea breaking up
+Palaeogeography
+ 
+Pedology
+Pedology
+ 
+Quaternary science
+Quaternary science
+Human
+Main article: Human geography
+Human geography (or anthropogeography) is a branch of geography that focuses on studying patterns and processes that shape human society.[68] It encompasses the human, political, cultural, social, and economic aspects. In industry, human geographers often work in city planning, public health, or business analysis.
+
+Human geography can be divided into many broad categories, such as:
+Cognitive geography
+Cognitive geography
+ 
+Cultural geography
+Cultural geography
+ 
+Development geography
+Development geography
+ 
+Economic geography
+Economic geography
+ 
+Health geography
+Health geography
+ 
+Historical geography
+Historical geography
+ 
+Internet geography
+Internet geography
+ 
+Political geography and Geopolitics
+Political geography and Geopolitics
+ 
+Population geography or Demography
+Population geography or Demography
+ 
+Religion geography
+Religion geography
+ 
+Social geography
+Social geography
+ 
+Transportation geography
+Transportation geography
+ 
+Tourism geography
+Tourism geography
+ 
+Urban geography
+Urban geography
+Various approaches to the study of human geography have also arisen through time and include:
+
+Behavioral geography
+Culture theory
+Feminist geography
+Geosophy
+Technical
+Main article: Technical geography
+Technical geography concerns studying and developing tools, techniques, and statistical methods employed to collect, analyze, use, and understand spatial data.[27][4][61][63] Technical geography is the most recently recognized, and controversial, of the branches. Its use dates back to 1749, when a book published by Edward Cave organized the discipline into a section containing content such as cartographic techniques and globes.[58] There are several other terms, often used interchangeably with technical geography to subdivide the discipline, including "techniques of geographic analysis,"[69] "Geographic Information Technology,"[1] "Geography method's and techniques,"[70] "Geographic Information Science,"[71] "geoinformatics," "geomatics," and "information geography". There are subtle differences to each concept and term; however, technical geography is one of the broadest, is consistent with the naming convention of the other two branches, has been in use since the 1700s, and has been used by the UNESCO Encyclopedia of Life Support Systems to divide geography into themes.[4][61][58] As academic fields increasingly specialize in their nature, technical geography has emerged as a branch of geography specializing in geographic methods and thought.[27] The emergence of technical geography has brought new relevance to the broad discipline of geography by serving as a set of unique methods for managing the interdisciplinary nature of the phenomena under investigation. While human and physical geographers use the techniques employed by technical geographers, technical geography is more concerned with the fundamental spatial concepts and technologies than the nature of the data.[27][62] It is therefore closely associated with the spatial tradition of geography while being applied to the other two major branches. A technical geographer might work as a GIS analyst, a GIS developer working to make new software tools, or create general reference maps incorporating human and natural features.[72]
+
+Technical geography can be divided into many broad categories, such as:
+Geodesign
+Geodesign
+ 
+Geodesy
+Geodesy
+ 
+Geoinformatics
+Geoinformatics
+ 
+Geographic information science
+Geographic information science
+ 
+Geomatics
+Geomatics
+ 
+Geovisualization
+Geovisualization
+ 
+Statistical geography
+Statistical geography
+ 
+Spatial analysis
+Spatial analysis
+ 
+Time geography
+Time geography
+Methods
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2022) (Learn how and when to remove this message)
+All geographic research and analysis start with asking the question "where," followed by "why there." Geographers start with the fundamental assumption set forth in Tobler's first law of geography, that "everything is related to everything else, but near things are more related than distant things."[37][38] As spatial interrelationships are key to this synoptic science, maps are a key tool. Classical cartography has been joined by a more modern approach to geographical analysis, computer-based geographic information systems (GIS).
+
+In their study, geographers use four interrelated approaches:
+
+Analytical – Asks why we find features and populations in a specific geographic area.
+Descriptive – Simply specifies the locations of features and populations.
+Regional – Examines systematic relationships between categories for a specific region or location on the planet.
+Systematic – Groups geographical knowledge into categories that can be explored globally.
+Quantitative methods
+Main articles: Quantitative revolution and Quantitative geography
+
+James Cook's 1770 chart of New Zealand
+Quantitative methods in geography became particularly influential in the discipline during the quantitative revolution of the 1950s and 60s.[16] These methods revitalized the discipline in many ways, allowing scientific testing of hypotheses and proposing scientific geographic theories and laws.[73] The quantitative revolution heavily influenced and revitalized technical geography, and lead to the development of the subfield of quantitative geography.[27][16]
+
+Quantitative cartography
+Main article: Cartography
+Cartography is the art, science, and technology of making maps.[74] Cartographers study the Earth's surface representation with abstract symbols (map making). Although other subdisciplines of geography rely on maps for presenting their analyses, the actual making of maps is abstract enough to be regarded separately.[75] Cartography has grown from a collection of drafting techniques into an actual science.
+
+Cartographers must learn cognitive psychology and ergonomics to understand which symbols convey information about the Earth most effectively and behavioural psychology to induce the readers of their maps to act on the information. They must learn geodesy and fairly advanced mathematics to understand how the shape of the Earth affects the distortion of map symbols projected onto a flat surface for viewing. It can be said, without much controversy, that cartography is the seed from which the larger field of geography grew.
+
+Geographic information systems
+Main article: Geographic information system
+Geographic information systems (GIS) deal with storing information about the Earth for automatic retrieval by a computer in an accurate manner appropriate to the information's purpose.[76] In addition to all of the other subdisciplines of geography, GIS specialists must understand computer science and database systems. GIS has revolutionized the field of cartography: nearly all mapmaking is now done with the assistance of some form of GIS software. The science of using GIS software and GIS techniques to represent, analyse, and predict the spatial relationships is called geographic information science (GISc).[77]
+
+Remote sensing
+Main article: Remote sensing
+
+Synthetic aperture radar image of Death Valley colored using polarimetry
+Remote sensing is the art, science, and technology of obtaining information about Earth's features from measurements made at a distance.[78] Remotely sensed data can be either passive, such as traditional photography, or active, such as LiDAR.[78] A variety of platforms can be used for remote sensing, including satellite imagery, aerial photography (including consumer drones), and data obtained from hand-held sensors.[78] Products from remote sensing include Digital elevation model and cartographic base maps. Geographers increasingly use remotely sensed data to obtain information about the Earth's land surface, ocean, and atmosphere, because it: (a) supplies objective information at a variety of spatial scales (local to global), (b) provides a synoptic view of the area of interest, (c) allows access to distant and inaccessible sites, (d) provides spectral information outside the visible portion of the electromagnetic spectrum, and (e) facilitates studies of how features/areas change over time. Remotely sensed data may be analyzed independently or in conjunction with other digital data layers (e.g., in a geographic information system). Remote sensing aids in land use, land cover (LULC) mapping, by helping to determine both what is naturally occurring on a piece of land and what human activities are taking place on it.[79]
+
+Geostatistics
+Main article: Geostatistics
+Geostatistics deal with quantitative data analysis, specifically the application of a statistical methodology to the exploration of geographic phenomena.[80] Geostatistics is used extensively in a variety of fields, including hydrology, geology, petroleum exploration, weather analysis, urban planning, logistics, and epidemiology. The mathematical basis for geostatistics derives from cluster analysis, linear discriminant analysis and non-parametric statistical tests, and a variety of other subjects. Applications of geostatistics rely heavily on geographic information systems, particularly for the interpolation (estimate) of unmeasured points. Geographers are making notable contributions to the method of quantitative techniques.
+
+Qualitative methods
+Main article: Qualitative geography
+Qualitative methods in geography are descriptive rather than numerical or statistical in nature.[81][17][48] They add context to concepts, and explore human concepts like beliefs and perspective that are difficult or impossible to quantify.[17] Human geography is much more likely to employ qualitative methods than physical geography. Increasingly, technical geographers are attempting to employ GIS methods to qualitative datasets.[17][82]
+
+Qualitative cartography
+
+A compound chorochromatic map of Indo-Aryan (Indic) languages
+Qualitative cartography employs many of the same software and techniques as quantitative cartography.[82] It may be employed to inform on map practices, or to visualize perspectives and ideas that are not strictly quantitative in nature.[82][17] An example of a form of qualitative cartography is a Chorochromatic map of nominal data, such as land cover or dominant language group in an area.[83] Another example is a deep map, or maps that combine geography and storytelling to produce a product with greater information than a two-dimensional image of places, names, and topography.[84][85] This approach offers more inclusive strategies than more traditional cartographic approaches for connecting the complex layers that makeup places.[85]
+
+Ethnography
+Main article: Ethnography
+Ethnographical research techniques are used by human geographers.[86] In cultural geography, there is a tradition of employing qualitative research techniques, also used in anthropology and sociology. Participant observation and in-depth interviews provide human geographers with qualitative data.
+
+Geopoetics
+Main article: Geopoetics
+Geopoetics is an interdisciplinary approach that combines geography and poetry to explore the interconnectedness between humans, space, place, and the environment.[87][88] Geopoetics is employed as a mixed methods tool to explain the implications of geographic research.[89] It is often employed to address and communicate the implications of complex topics, such as the anthropocene.[90][91][92][93][94]
+
+Interviews
+Main article: Interview (research)
+Geographers employ interviews to gather data and acquire valuable understandings from individuals or groups regarding their encounters, outlooks, and opinions concerning spatial phenomena.[95][96] Interviews can be carried out through various mediums, including face-to-face interactions, phone conversations, online platforms, or written exchanges.[48] Geographers typically adopt a structured or semi-structured approach during interviews involving specific questions or discussion points when utilized for research purposes.[95] These questions are designed to extract focused information about the research topic while being flexible enough to allow participants to express their experiences and viewpoints, such as through open-ended questions.[95]
+
+Origin and history
+Main article: History of geography
+The concept of geography is present in all cultures, and therefore the history of the discipline is a series of competing narratives, with concepts emerging at various points across space and time.[97] The oldest known world maps date back to ancient Babylon from the 9th century BC.[98] The best known Babylonian world map, however, is the Imago Mundi of 600 BC.[99] The map as reconstructed by Eckhard Unger shows Babylon on the Euphrates, surrounded by a circular landmass showing Assyria, Urartu, and several cities, in turn surrounded by a "bitter river" (Oceanus), with seven islands arranged around it so as to form a seven-pointed star.[100] The accompanying text mentions seven outer regions beyond the encircling ocean. The descriptions of five of them have survived.[101] In contrast to the Imago Mundi, an earlier Babylonian world map dating back to the 9th century BC depicted Babylon as being further north from the center of the world, though it is not certain what that center was supposed to represent.[98]
+
+
+Etching of an ancient seal identified as Eratosthenes. Philipp Daniel Lippert, Dactyliothec, 1767.
+The ideas of Anaximander (c. 610–545 BC): considered by later Greek writers to be the true founder of geography, come to us through fragments quoted by his successors.[102] Anaximander is credited with the invention of the gnomon, the simple, yet efficient Greek instrument that allowed the early measurement of latitude.[102] Thales is also credited with the prediction of eclipses. The foundations of geography can be traced to ancient cultures, such as the ancient, medieval, and early modern Chinese. The Greeks, who were the first to explore geography as both art and science, achieved this through Cartography, Philosophy, and Literature, or through Mathematics. There is some debate about who was the first person to assert that the Earth is spherical in shape, with the credit going either to Parmenides or Pythagoras. Anaxagoras was able to demonstrate that the profile of the Earth was circular by explaining eclipses. However, he still believed that the Earth was a flat disk, as did many of his contemporaries. One of the first estimates of the radius of the Earth was made by Eratosthenes.[103]
+
+The first rigorous system of latitude and longitude lines is credited to Hipparchus. He employed a sexagesimal system that was derived from Babylonian mathematics. The meridians were subdivided into 360°, with each degree further subdivided into 60 (minutes). To measure the longitude at different locations on Earth, he suggested using eclipses to determine the relative difference in time.[104] The extensive mapping by the Romans as they explored new lands would later provide a high level of information for Ptolemy to construct detailed atlases. He extended the work of Hipparchus, using a grid system on his maps and adopting a length of 56.5 miles for a degree.[105]
+
+From the 3rd century onwards, Chinese methods of geographical study and writing of geographical literature became much more comprehensive than what was found in Europe at the time (until the 13th century).[106] Chinese geographers such as Liu An, Pei Xiu, Jia Dan, Shen Kuo, Fan Chengda, Zhou Daguan, and Xu Xiake wrote important treatises, yet by the 17th century advanced ideas and methods of Western-style geography were adopted in China.
+
+
+The Ptolemy world map, reconstituted from Ptolemy's Geographia, written c. 150
+During the Middle Ages, the fall of the Roman empire led to a shift in the evolution of geography from Europe to the Islamic world.[106] Muslim geographers such as Muhammad al-Idrisi produced detailed world maps (such as Tabula Rogeriana), while other geographers such as Yaqut al-Hamawi, Abu Rayhan Biruni, Ibn Battuta, and Ibn Khaldun provided detailed accounts of their journeys and the geography of the regions they visited. Turkish geographer Mahmud al-Kashgari drew a world map on a linguistic basis, and later so did Piri Reis (Piri Reis map). Further, Islamic scholars translated and interpreted the earlier works of the Romans and the Greeks and established the House of Wisdom in Baghdad for this purpose.[107] Abū Zayd al-Balkhī, originally from Balkh, founded the "Balkhī school" of terrestrial mapping in Baghdad.[108] Suhrāb, a late tenth century Muslim geographer accompanied a book of geographical coordinates, with instructions for making a rectangular world map with equirectangular projection or cylindrical equidistant projection.[109]
+
+Abu Rayhan Biruni (976–1048) first described a polar equi-azimuthal equidistant projection of the celestial sphere.[110] He was regarded as the most skilled when it came to mapping cities and measuring the distances between them, which he did for many cities in the Middle East and the Indian subcontinent. He often combined astronomical readings and mathematical equations to develop methods of pin-pointing locations by recording degrees of latitude and longitude. He also developed similar techniques when it came to measuring the heights of mountains, depths of the valleys, and expanse of the horizon. He also discussed human geography and the planetary habitability of the Earth. He also calculated the latitude of Kath, Khwarezm, using the maximum altitude of the Sun, and solved a complex geodesic equation to accurately compute the Earth's circumference, which was close to modern values of the Earth's circumference.[111] His estimate of 6,339.9 km for the Earth radius was only 16.8 km less than the modern value of 6,356.7 km. In contrast to his predecessors, who measured the Earth's circumference by sighting the Sun simultaneously from two different locations, al-Biruni developed a new method of using trigonometric calculations based on the angle between a plain and mountain top, which yielded more accurate measurements of the Earth's circumference, and made it possible for it to be measured by a single person from a single location.[112]
+
+
+Map of southern Atlantic Ocean from 1733 edition of the Geographia Generalis
+The European Age of Discovery during the 16th and the 17th centuries, where many new lands were discovered and accounts by European explorers such as Christopher Columbus, Marco Polo, and James Cook revived a desire for both accurate geographic detail and more solid theoretical foundations in Europe. In 1650, the first edition of the Geographia Generalis was published by Bernhardus Varenius, which was later edited and republished by others including Isaac Newton.[113][114] This textbook sought to integrate new scientific discoveries and principles into classical geography and approach the discipline like the other sciences emerging, and is seen by some as the division between ancient and modern geography in the West.[113][114]
+
+The Geographia Generalis contained both theoretical background and practical applications related to ship navigation.[114] The remaining problem facing both explorers and geographers was finding the latitude and longitude of a geographic location. While the problem of latitude was solved long ago, but that of longitude remained; agreeing on what zero meridians should be was only part of the problem. It was left to John Harrison to solve it by inventing the chronometer H-4 in 1760, and later in 1884 for the International Meridian Conference to adopt by convention the Greenwich meridian as zero meridians.[111]
+
+The 18th and 19th centuries were the times when geography became recognized as a discrete academic discipline, and became part of a typical university curriculum in Europe (especially Paris and Berlin). The development of many geographic societies also occurred during the 19th century, with the foundations of the Société de Géographie in 1821, the Royal Geographical Society in 1830, Russian Geographical Society in 1845, American Geographical Society in 1851, the Royal Danish Geographical Society in 1876 and the National Geographic Society in 1888.[115] The influence of Immanuel Kant, Alexander von Humboldt, Carl Ritter, and Paul Vidal de la Blache can be seen as a major turning point in geography from philosophy to an academic subject.[116][117][118][119][120] Geographers such as Richard Hartshorne and Joseph Kerski have regarded both Humboldt and Ritter as the founders of modern geography, as Humboldt and Ritter were the first to establish geography as an independent scientific discipline.[121][122]
+
+
+Waldo Tobler in front of the Newberry Library. Chicago, November 2007
+Over the past two centuries, the advancements in technology with computers have led to the development of geomatics and new practices such as participant observation and geostatistics being incorporated into geography's portfolio of tools. In the West during the 20th century, the discipline of geography went through four major phases: environmental determinism, regional geography, the quantitative revolution, and critical geography. The strong interdisciplinary links between geography and the sciences of geology and botany, as well as economics, sociology, and demographics, have also grown greatly, especially as a result of earth system science that seeks to understand the world in a holistic view. New concepts and philosophies have emerged from the rapid advancement of computers, quantitative methods, and interdisciplinary approaches. In 1970, Waldo Tobler proposed the first law of geography, "everything is related to everything else, but near things are more related than distant things."[37][38] This law summarizes the first assumption geographers make about the world.
+
+Notable geographers
+Main articles: List of geographers and List of Graeco-Roman geographers
+
+Gerardus Mercator
+
+Mei-Po Kwan
+Alexander von Humboldt (1769–1859) – published Cosmos, founder of the subfield biogeography, and established geography as an independent scientific discipline.
+Anne Kelly Knowles (Born 1957) – influential in the use of GIS and geographic methods in History.
+Bernhardus Varenius (1622–1650)– German geographer and author of Geographia Generalis
+Carl O. Sauer (1889–1975) – cultural geographer.
+Carl Ritter (1779–1859) – occupied the first chair of geography, at the University of Berlin, and established geography as an independent scientific discipline.
+Cynthia Brewer  – cartographic theorist that created the web application ColorBrewer.
+Dana Tomlin  – originator of map algebra
+Doreen Massey (1944–2016) – scholar in the space and places of globalization and its pluralities; winner of the Vautrin Lud Prize.
+Ellen Churchill Semple (1863–1932) – first female president of the Association of American Geographers.
+Eratosthenes (c. 276–c. 195/194 BC) – calculated the size of the Earth.
+Ernest Burgess (1886–1966) – creator of the concentric zone model.
+George F. Jenks (1916–1996) – influential in computer cartography and thematic mapping
+Gerardus Mercator (1512–1594) – cartographer who produced the mercator projection
+Mark Monmonier (born 1943) – cartographic theorist who wrote numerous books contributing to Geographic Information Systems.
+Mei-Po Kwan (born 1962) – contributed significantly to the use of GPS and real-time mapping within GIS
+Michael Frank Goodchild (born 1944) – GIScience scholar and winner of the RGS founder's medal in 2003.
+Muhammad al-Idrisi (Arabic: أبو عبد الله محمد الإدريسي; Latin: Dreses) (1100–1165) – author of Nuzhatul Mushtaq.
+Nigel Thrift (born 1949) – originator of non-representational theory.
+Paul Vidal de La Blache (1845–1918) – founder of the French school of geopolitics, wrote the principles of human geography.
+Ptolemy (c. 100–c. 170) – compiled Greek and Roman knowledge into the book Geographia.
+Roger Tomlinson (1933 – 2014) – the primary originator of modern geographic information systems.
+Sir Halford Mackinder (1861–1947) – co-founder of the LSE, Geographical Association.
+Strabo (64/63 BC – c. AD 24) – wrote Geographica, one of the first books outlining the study of geography.
+Waldo Tobler (1930–2018) – coined the first law of geography and second law of geography.
+Walter Christaller (1893–1969) – human geographer and inventor of Central place theory.
+William Morris Davis (1850–1934) – father of American geography and developer of the cycle of erosion.
+Yi-Fu Tuan (1930–2022) – Chinese-American scholar credited with starting Humanistic Geography as a discipline.
+Institutions and societies
+Main category: Geography organizations
+American Association of Geographers (AAG)[123]
+American Geographical Society (US)[124]
+Anton Melik Geographical Institute (Slovenia)
+Gamma Theta Upsilon (international)
+Institute of Geographical Information Systems (Pakistan)
+International Geographical Union (International)
+National Council for Geographic Education (United States)
+National Geographic Society (United States)[125]
+Royal Canadian Geographical Society (Canada)
+Royal Danish Geographical Society (Denmark)
+Royal Geographical Society (UK)[126]
+Russian Geographical Society (Russia)
+Publications
+Main category: Geographic literature
+Annals of the American Association of Geographers
+Antipode
+Applied Geography
+Concepts and Techniques in Modern Geography
+Dialogues in Human Geography
+Economic Geography
+Geographia Technica
+Geographical Review
+Geographical Bulletin
+GeoHumanities
+International Journal of Geographical Information Science
+ISPRS International Journal of Geo-Information
+Journal of Maps
+Journal of Rural Studies
+Journal of Transport Geography
+National Geographic
+Professional Geographer
+Progress in Human Geography
+The Geographical Journal
+The Professional Geographer
+Related fields
+Geology
+Main article: Geology
+
+The rock cycle shows the relationship between igneous, sedimentary, and metamorphic rocks.
+The discipline of geography, especially physical geography, and geology have significant overlap. In the past, the two have often shared academic departments at universities, a point that has led to conflict over resources.[127] Both disciplines do seek to understand the rocks on the Earth's surface and the processes that change them over time. Geology employs many of the tools and techniques of technical geographers, such as GIS and remote sensing to aid in geological mapping.[128] However, geology includes research that goes beyond the spatial component, such as the chemical analysis of rocks and biogeochemistry.[129]
+
+History
+Main article: History
+The discipline of History has significant overlap with geography, especially human geography.[130][131] Like geology, history and geography have shared university departments. Geography provides the spatial context within which historical events unfold.[130] The physical geographic features of a region, such as its landforms, climate, and resources, shape human settlements, trade routes, and economic activities, which in turn influence the course of historical events.[130] Thus, a historian must have a strong foundation in geography.[130][131] Historians employ the techniques of technical geographers to create historical atlases and maps.
+
+Planetary science
+Main article: Planetary science
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2024) (Learn how and when to remove this message)
+
+Photograph from Apollo 15 command module. Endeavour of the rilles in the vicinity of the crater Aristarchus on the Moon.
+While the discipline of geography is normally concerned with the Earth, the term can also be informally used to describe the study of other worlds, such as the planets of the Solar System and even beyond. The study of systems larger than the Earth itself usually forms part of Astronomy or Cosmology. The study of other planets is usually called planetary science. Alternative terms such as areography (geography of Mars) have been employed to describe the study of other celestial objects. Ultimately, geography may be considered a subdiscipline within planetary science.
